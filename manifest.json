@@ -1,0 +1,15 @@
+{
+  "domain": "influxdbintegration",
+  "name": "Influxdb Integration",
+  "codeowners": [
+    "git@github.com:OmarAGamal/influxdbintegration.git"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
